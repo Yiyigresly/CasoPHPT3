@@ -1,0 +1,6 @@
+a { text-decoration: none;}
+a:hover{  text-decoration: underline;
+   font-weight:lighter;}
+h4 {color:blueviolet;}
+ .square { list-style:square;}
+ .none { list-style:none;}
